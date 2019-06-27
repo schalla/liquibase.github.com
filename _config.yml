@@ -1,6 +1,9 @@
 safe: false
 lsi: false
 markdown: kramdown
+kramdown:
+  input: GFM
+  syntax_highlighter: rogue
 permalink: /:year/:month/:title.html
 
 paginate: 10

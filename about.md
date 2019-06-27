@@ -1,9 +1,8 @@
 ---
 layout: default
-title: About Liquibase
+title: About
 includeDaticalBox: true
 ---
-
 # About Liquibase #
 
 ## Availability ##

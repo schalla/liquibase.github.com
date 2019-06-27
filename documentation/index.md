@@ -5,7 +5,8 @@ includeDaticalBox: true
 ---
 
 <div class="container">
-<div class="span-10 append-1">
+<div class="row">
+    <div class="col-xs-12 col-sm-6">
 
 <h2>Building Changelogs</h2>
 <ul>
@@ -56,7 +57,7 @@ includeDaticalBox: true
 </ul>
 </div>
 
-<div class="span-13 last">
+<div class="col-xs-12 col-sm-6">
 <h2>Major Concepts</h2>
 
 <h3>Changelog file</h3>
@@ -92,6 +93,7 @@ If no context is specified, the changeset will run regardless of the execution c
  <a href="contexts.html">[more]</a>
 </p>
 
+</div>
 </div>
 
 </div>
